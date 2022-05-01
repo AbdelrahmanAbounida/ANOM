@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>C:/Users/DELL/Downloads/angle-double-small-left-free-icon-font.png</file>
+    <file>C:/Users/DELL/Downloads/angle-double-small-left-free-icon-font.svg</file>
+    <file>C:/Users/DELL/Downloads/align-center-free-icon-font.png</file>
+    <file>C:/Users/DELL/Downloads/align-center-free-icon-font.svg</file>
+    <file>C:/Users/DELL/Downloads/minus-free-icon-font.png</file>
+    <file>C:/Users/DELL/Downloads/minus-free-icon-font.svg</file>
+    <file>C:/Users/DELL/Downloads/minus-small-free-icon-font.png</file>
+    <file>C:/Users/DELL/Downloads/minus-small-free-icon-font.svg</file>
+    <file>C:/Users/DELL/Downloads/minus.png</file>
+    <file>C:/Users/DELL/Downloads/minus.svg</file>
+    <file>C:/Users/DELL/Downloads/expand-arrows-free-icon-font.png</file>
+    <file>C:/Users/DELL/Downloads/expand-arrows-free-icon-font.svg</file>
+    <file>C:/Users/DELL/Downloads/sign-out-free-icon-font.png</file>
+    <file>C:/Users/DELL/Downloads/sign-out-free-icon-font.svg</file>
+    <file>C:/Users/DELL/Downloads/cross-free-icon-font.png</file>
+    <file>C:/Users/DELL/Downloads/cross-free-icon-font.svg</file>
+    <file>align-justify.png</file>
+    <file>align-justify-free-icon-font.png</file>
+    <file>home.png</file>
+    <file>menu-burger.png</file>
+    <file>search.png</file>
+  </qresource>
+</RCC>

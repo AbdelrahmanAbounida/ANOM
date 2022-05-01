@@ -1,0 +1,45 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>align-center-free-icon-font.png</file>
+    <file>align-center-free-icon-font.svg</file>
+    <file>align-justify.png</file>
+    <file>align-justify-free-icon-font.png</file>
+    <file>analysis (1).png</file>
+    <file>analysis.png</file>
+    <file>analysis3.png</file>
+    <file>angle-double-small-left-free-icon-font.png</file>
+    <file>angle-double-small-left-free-icon-font.svg</file>
+    <file>compare.png</file>
+    <file>cross-free-icon-font.png</file>
+    <file>cross-free-icon-font.svg</file>
+    <file>expand-arrows-free-icon-font.png</file>
+    <file>expand-arrows-free-icon-font.svg</file>
+    <file>heart-beat.png</file>
+    <file>home.png</file>
+    <file>home2.png</file>
+    <file>home-free-icon-font.png</file>
+    <file>icons.qrc</file>
+    <file>increasing (1).png</file>
+    <file>increasing.png</file>
+    <file>menu-burger.png</file>
+    <file>minus.png</file>
+    <file>minus.svg</file>
+    <file>minus-free-icon-font.png</file>
+    <file>minus-free-icon-font.svg</file>
+    <file>minus-small-free-icon-font.png</file>
+    <file>minus-small-free-icon-font.svg</file>
+    <file>pulse (1).png</file>
+    <file>pulse (2).png</file>
+    <file>pulse (3).png</file>
+    <file>pulse.png</file>
+    <file>search.png</file>
+    <file>sign-out-free-icon-font (1).png</file>
+    <file>sign-out-free-icon-font.png</file>
+    <file>sign-out-free-icon-font.svg</file>
+    <file>stats-free-icon-font (1).png</file>
+    <file>stats-free-icon-font.png</file>
+    <file>stats-free-icon-font.svg</file>
+    <file>time-fast-free-icon-font.png</file>
+    <file>wave.png</file>
+  </qresource>
+</RCC>

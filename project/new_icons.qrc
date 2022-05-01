@@ -1,0 +1,46 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>assets/align-center-free-icon-font.png</file>
+    <file>assets/align-center-free-icon-font.svg</file>
+    <file>assets/align-justify.png</file>
+    <file>assets/align-justify-free-icon-font.png</file>
+    <file>assets/analysis (1).png</file>
+    <file>assets/analysis.png</file>
+    <file>assets/analysis3.png</file>
+    <file>assets/angle-double-small-left-free-icon-font.png</file>
+    <file>assets/angle-double-small-left-free-icon-font.svg</file>
+    <file>assets/compare.png</file>
+    <file>assets/cross-free-icon-font.png</file>
+    <file>assets/cross-free-icon-font.svg</file>
+    <file>assets/expand-arrows-free-icon-font.png</file>
+    <file>assets/expand-arrows-free-icon-font.svg</file>
+    <file>assets/heart-beat.png</file>
+    <file>assets/home.png</file>
+    <file>assets/home2.png</file>
+    <file>assets/home-free-icon-font.png</file>
+    <file>assets/icons.qrc</file>
+    <file>assets/icons2.qrc</file>
+    <file>assets/increasing (1).png</file>
+    <file>assets/increasing.png</file>
+    <file>assets/menu-burger.png</file>
+    <file>assets/minus.png</file>
+    <file>assets/minus.svg</file>
+    <file>assets/minus-free-icon-font.png</file>
+    <file>assets/minus-free-icon-font.svg</file>
+    <file>assets/minus-small-free-icon-font.png</file>
+    <file>assets/minus-small-free-icon-font.svg</file>
+    <file>assets/pulse (1).png</file>
+    <file>assets/pulse (2).png</file>
+    <file>assets/pulse (3).png</file>
+    <file>assets/pulse.png</file>
+    <file>assets/search.png</file>
+    <file>assets/sign-out-free-icon-font (1).png</file>
+    <file>assets/sign-out-free-icon-font.png</file>
+    <file>assets/sign-out-free-icon-font.svg</file>
+    <file>assets/stats-free-icon-font (1).png</file>
+    <file>assets/stats-free-icon-font.png</file>
+    <file>assets/stats-free-icon-font.svg</file>
+    <file>assets/time-fast-free-icon-font.png</file>
+    <file>assets/wave.png</file>
+  </qresource>
+</RCC>
